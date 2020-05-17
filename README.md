@@ -6,4 +6,4 @@ Download Numeral Dataset.rar for sample dataset of Numerals
 
 Download Character Dataset.rar for sample dataset of Characters 
 
-For Full dataset email on: mikigandhi@yahoo.co.in 
+For Full dataset email me at : mikigandhi@yahoo.co.in 
