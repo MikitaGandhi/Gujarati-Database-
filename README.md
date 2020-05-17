@@ -2,6 +2,7 @@
 
 Handwritten Gujarati Database for Numeral and Characters
 
-For sample dataset for Gujarati Numeral, download Numeral Dataset.rar and for Characters download Character dataset.rar
+Download Numeral Dataset.rar for sample dataset of Numerals 
+Download Character Dataset.rar for sample dataset of Characters 
 
 For Full dataset email me on: mikigandhi@yahoo.co.in 
